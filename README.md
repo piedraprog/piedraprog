@@ -1,27 +1,38 @@
 # José Piedra
 
-**Product-focused Frontend Engineer / Full-stack TypeScript Engineer**  
-I build practical web products from messy business requirements to usable interfaces, APIs, data models, authentication flows, and deployable systems.
+**Product-focused Frontend Engineer / Full-stack TypeScript Engineer**
 
-My strongest lane is frontend-heavy product engineering: **Angular, React, Next.js, TypeScript, state management, API integration, and product workflow translation**. I also work across the stack with **Node.js, NestJS, PostgreSQL, MongoDB, Redis, Docker, VPS deployments, and small-business production systems**.
+I build and operate practical software for real business workflows: CRMs, commerce tools, raffle operations, internal systems, product infrastructure, and the tooling around my own professional workflow.
 
-Currently I am turning my own professional workflow into a small career/application operating system: a source-of-truth driven resume pipeline that takes real job descriptions, matches them against verified professional evidence, reports gaps, and generates ATS-friendly resumes without inventing experience.
+My core strength is turning ambiguous business processes into usable web products. I usually work frontend-heavy, but I can own the whole product slice: UI, API integration, backend services, data modeling, authentication, deployment, and day-to-day operational constraints.
 
-## What I am building now
+I do not treat these as portfolio demos. Most of my work comes from actual operational needs: replacing spreadsheets, organizing customer workflows, validating SaaS ideas, supporting small businesses, and keeping the infrastructure understandable enough to run and evolve.
 
-- **Evidence-based resume generator** — Bun, TypeScript, Zod, Handlebars; separates resume content from rendering and keeps every claim traceable to source evidence.
-- **Application-specific career pipeline** — job description analysis, match reports, gap detection, positioning variants, and English/Spanish resume outputs.
-- **Product systems and prototypes** — full-stack TypeScript products around operations, commerce, CRM, workflows, and SaaS-style validation.
-- **Portfolio and personal brand infrastructure** — a public technical portfolio connected to real project evidence instead of generic self-promotion.
+## What I am working on
 
-## Professional focus
+- **Insurance CRM** — a production CRM for an insurance broker, replacing spreadsheet-driven operations with client, household, interaction, task, permission, and follow-up workflows.
+- **Selltly** — an active commerce/operations product for small businesses, focused on catalog, inventory, orders, payment-method workflows, tenant/store routing, and market validation.
+- **RifaExpress** — a raffle-management SaaS born from a real client request, covering raffle administration, ticket flows, public pages, WhatsApp notification workflows, PostgreSQL, Redis, S3-compatible storage, and VPS deployment.
+- **Churupitos** — a collaborative product migration/restructure project around personal finance, currently in MVP/architecture work rather than shipped-market validation.
+- **Product operations infrastructure** — VPS, homelab, deployment notes, database access, Portainer/WSL workflows, and operational documentation for the systems I run or maintain.
+- **Career Pipeline** — a source-of-truth driven resume/application system built with Bun, TypeScript, Zod, and Handlebars to generate ATS-friendly resumes and match reports without inventing experience.
+- **Portfolio and personal brand system** — a public portfolio and professional evidence layer connected to real product work instead of generic self-promotion.
 
-- Frontend architecture and product UI implementation.
-- Angular and React/Next.js product development.
-- TypeScript-heavy applications with API-backed workflows.
-- Full-stack product ownership with NestJS, Node.js, PostgreSQL, MongoDB, and Redis.
-- Turning ambiguous business processes into maintainable software flows.
-- Honest technical positioning: strong match, transferable evidence, and explicit gaps.
+## How I think about engineering
+
+- Build software around real workflows, not around imaginary product narratives.
+- Keep claims tied to evidence: shipped, validated, paused, planned, and prototype work are not the same thing.
+- Prefer maintainable product architecture over framework-driven noise.
+- Work across frontend, backend, data, and infrastructure when the product needs it, without pretending to be a DevOps/SRE specialist.
+- Use AI as an engineering accelerator, not as a replacement for judgment, product understanding, or technical ownership.
+
+## Technical focus
+
+- Frontend product engineering with Angular, React, Next.js, TypeScript, RxJS, state management, forms, API-backed UI, and product workflows.
+- Full-stack TypeScript with Node.js, NestJS, PostgreSQL, MongoDB, Redis, JWT/auth, permissions, and business data modeling.
+- Product ownership for small business systems, SaaS-style experiments, MVP validation, and operational tools.
+- Practical infrastructure: VPS deployments, Docker, Nginx, Cloudflare, Dokploy/Portainer-style operations, database access, and deployment documentation.
+- Evidence-based career tooling: structured resumes, match reports, gap analysis, bilingual outputs, and rendering separated from content generation.
 
 ## Tech I use
 
@@ -36,14 +47,9 @@ Currently I am turning my own professional workflow into a small career/applicat
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-
-## Selected product evidence
-
-- **Insurance CRM** — production CRM for an insurance broker; frontend, backend, data modeling, authentication, permissions, and operational workflows.
-- **RifaExpress** — raffle-management SaaS built from a real client need; raffle administration, ticket flows, public pages, notifications, PostgreSQL, Redis, and S3-compatible storage.
-- **Selltly** — commerce/operations MVP; catalog, inventory, orders, payment-method workflows, tenant/store routing, and product validation.
-- **Career Pipeline** — truthful ATS-friendly resume generation using source-of-truth evidence, Zod validation, Handlebars rendering, and application-specific match reports.
 
 ## Contact
 
